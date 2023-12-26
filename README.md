@@ -20,7 +20,7 @@ To study and debug Mixtral-8x7B as soon as possible，please start with the "bas
     @File    ：basic_language_model_moe_transformers.py
     @Author  ：ys
     @Time    ：2023/12/21 18:10
-   	The moe part of the Mixtral-8x7b model, the following core code is from the official transformers library source code
+    The moe part of the Mixtral-8x7b model, the following core code is from the official transformers library source code
     Mixtral-8x7b 模型中的moe部分，以下核心代码来自官方transformers库源代码
 """
 
